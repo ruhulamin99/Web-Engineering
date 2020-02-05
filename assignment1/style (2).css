@@ -1,0 +1,28 @@
+.football{
+    
+    height: 400px;
+    width: 50%;
+    background-color: wheat;
+    float: left;
+}
+
+.football1{
+    
+    height: 400px;
+    width: 50%;
+    background-color: wheat;
+    float: left;
+}
+
+img{
+    width: 400px;
+    height: 300px;
+   
+    margin: auto;
+    display: block;
+}
+
+p{
+    font-display: 50px;
+    font-size: 25px;
+}

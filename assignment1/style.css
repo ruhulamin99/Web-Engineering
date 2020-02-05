@@ -1,0 +1,60 @@
+.razu{
+    
+    height: 550px;
+    width: 50%;
+    background-color: red;
+float: left;
+}
+
+.link{
+    
+    height: 550px;
+    width: 50%;
+    background-color: yellow;
+    float: left;
+    
+}
+.razu img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: auto;
+    display: block;
+}
+
+.razu h2,h3{
+    text-align: center;
+    color: yellow;
+}
+a{
+    text-align: center;
+    font-size: 26px;
+}
+
+p{
+    font-style: italic;
+    font-size: 20px;
+}
+.edu{
+    width: 100%;
+    height: 200px;
+    background-color: aqua;
+    float: left;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.edu h1{
+    text-align: center;
+    color: yellow;
+}
+
+
+.edu img{
+    margin-top: 20px;
+      margin-left: 10px;
+      width: 100px;
+      height: 100px;
+    
+}
+
+
